@@ -1,4 +1,15 @@
 <resources>
+    /*Allgemein*/
     <string name="app_name">P3</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Einstellungen</string>
+
+    /*Main*/
+    <string name="main_title">Benutzer wählen</string>
+
+    /*Action Picker*/
+    <string name="action_picker_title">Aktion wählen</string>
+    <string name="action_picker_button1">Getränke kaufen</string>
+    <string name="action_picker_button2">Belohnungsliste</string>
+
+
 </resources>
